@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,17 +20,29 @@ Research Interests
 - Experimental Mechanics and Model Validation
 - Uncertainty Quantification and Machine Learning
 
-Getting started
+Current Research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. My current research focuses on the biomechanics of the human hearing system, particularly the mechanical response of middle-ear structures under intense acoustic loading and surgical manipulation.
 
-Site-wide configuration
+1. I develop subject-specific finite-element models informed by high-resolution imaging and experimental measurements to investigate tissue deformation, nonlinear behavior, mechanical injury, and functional impairment.
+
+1. A central goal of my research is to establish predictive computational frameworks to identify injury mechanisms, assess the functional consequences of tissue damage, and contribute to safer otologic surgical procedures.
+
+
+Research Background
 ------
+I received my PhD in Systems Design Engineering from the University of Waterloo. Before joining Mass Eye and Ear and Harvard Medical School, I conducted postdoctoral research at the University of Waterloo.
+
+My previous research has included computational and experimental investigations of soft-tissue puncture, fracture and damage, nonlinear material behavior, and biomechanical systems.
+
+Future Research Directions
+-----
+My long-term goal is to establish an independent research program integrating computational mechanics, experimental characterization, and data-driven modeling to investigate tissue injury and its consequences for biomechanical function.
+
+While my current research emphasizes middle-ear biomechanics, I aim to extend these approaches to other mechanically sensitive biological tissues and structures, including the inner ear and other systems where nonlinear material behavior, complex loading conditions, and mechanical injury influence physiological function.
+
+
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
