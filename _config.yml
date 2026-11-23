@@ -33,16 +33,16 @@ author:
   email            : hmohammadi@meei.harvard.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://connects.catalyst.harvard.edu/Profiles/display/Person/225254L"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=M946zQEAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9073-1004"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Hossein-Mohammadi-14"
   scopus           : # URL
   zotero           : # URL
 
