@@ -7,6 +7,4 @@ excerpt: "<strong>Hossein Mohammadi</strong>, Griffin Rodgers, Anne Bonnin, Luka
 venue: "In Preparation"
 ---
 
-**Abstract**:
 
-**Keywords**:
