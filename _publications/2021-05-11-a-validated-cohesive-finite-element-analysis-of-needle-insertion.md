@@ -7,7 +7,7 @@ excerpt: '<strong>Hossein Mohammadi</strong>, Nima Maftoon'
 date: 2024-02-17
 venue: 'Canadian Medical and Biological Engineering Society (CMBES)'
 paperurl: 'https://proceedings.cmbes.ca/index.php/proceedings/article/view/964'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 
