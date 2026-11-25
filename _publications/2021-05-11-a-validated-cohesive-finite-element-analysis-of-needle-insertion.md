@@ -3,7 +3,7 @@ title: "A Validated Cohesive Finite Element Analysis of Needle Insertion into Hu
 collection: publications
 category: conferences
 permalink: /publication/2021-05-11-a-validated-cohesive-finite-element-analysis-of-needle-insertion
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: '<strong>Hossein Mohammadi</strong>, Nima Maftoon'
 date: 2024-02-17
 venue: 'Canadian Medical and Biological Engineering Society (CMBES)'
 paperurl: 'https://proceedings.cmbes.ca/index.php/proceedings/article/view/964'
