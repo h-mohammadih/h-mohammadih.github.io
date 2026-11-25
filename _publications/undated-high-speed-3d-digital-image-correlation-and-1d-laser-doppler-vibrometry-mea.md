@@ -7,6 +7,4 @@ excerpt: "Jonathan Oliveira Luiz, John Rosowski, <strong>Hossein Mohammadi</stro
 venue: "To be submitted to Journal of Biomedical Optics"
 ---
 
-**Abstract**:
 
-**Keywords**:
