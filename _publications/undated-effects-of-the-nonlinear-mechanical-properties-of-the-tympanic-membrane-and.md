@@ -7,6 +7,4 @@ excerpt: "<strong>Hossein Mohammadi</strong>, Aaron K. Remenschneider, Sunil Pur
 venue: "In Preparation"
 ---
 
-**Abstract**:
 
-**Keywords**:
