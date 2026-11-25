@@ -7,6 +7,4 @@ excerpt: "<strong>Hossein Mohammadi</strong>, Annelise Pageau, Yusra Pervez, Ale
 venue: "Manuscript prepared; publication pending industry approval"
 ---
 
-**Abstract**:
 
-**Keywords**:
