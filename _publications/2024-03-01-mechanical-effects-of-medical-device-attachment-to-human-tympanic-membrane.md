@@ -27,4 +27,4 @@ variations of the location of the device on the stapes footplate responses.
 Conclusion: The findings of our study aid the development and optimization of new therapeutic devices, attached to the 
 tympanic membrane, to have the least adverse effects on middle-ear vibrations.
 
-**Keywords**: Middle-ear mechanics, finite-element model, medical-device attachment, hearing implant
+**Keywords**: Finite-element model; Hearing implants; Medical-device attachment; Middle-ear mechanics.
