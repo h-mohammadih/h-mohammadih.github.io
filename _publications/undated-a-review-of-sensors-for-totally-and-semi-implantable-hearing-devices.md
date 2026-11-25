@@ -7,6 +7,4 @@ excerpt: "Mohit Dhanda, <strong>Hossein Mohammadi</strong>, Nima Maftoon"
 venue: "Under Internal Review"
 ---
 
-**Abstract**:
 
-**Keywords**:
