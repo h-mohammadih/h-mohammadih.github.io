@@ -13,6 +13,6 @@ citation: 'Mohammadi, H., Tubelli, A. A., Puria, S., and Cheng, J. T. (2026). A 
 
 This study investigates the nonlinear dynamic response of the human middle ear under intense sound waves using a time-domain finite-element model.
 
-**Research topics:** Middle-ear biomechanics, nonlinear finite-element analysis, acoustic loading, and hearing mechanics.
+Research topics: Middle-ear biomechanics, nonlinear finite-element analysis, acoustic loading, and hearing mechanics.
 
 [Read the preprint](https://doi.org/10.64898/2026.09.23.753568)
