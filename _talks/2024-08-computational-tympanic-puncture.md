@@ -2,7 +2,7 @@
 title: Computational Modelling of Tympanic Membrane Puncture Biomechanics
 collection: talks
 excerpt: ""
-type: Conference Presentation (format to confirm)
+type: Poster Presentation
 permalink: /talks/2024-08-computational-tympanic-puncture
 venue: Canadian Society for Biomechanics (CSB-SCB) 2024 Conference
 date: '2024-08-01'
