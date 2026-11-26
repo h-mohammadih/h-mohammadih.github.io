@@ -2,7 +2,7 @@
 title: The sensitivity of nonlinear Ogden parameters in the middle-ear response to high-intensity sounds
 collection: talks
 excerpt: ""
-type: Conference Presentation (format to confirm)
+type: Poster Presentation
 permalink: /talks/2026-02-ogden-parameter-sensitivity
 venue: Association for Research in Otolaryngology (ARO), 49th Annual MidWinter Meeting
 date: '2026-02-01'
