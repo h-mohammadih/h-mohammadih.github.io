@@ -1,6 +1,7 @@
 ---
 title: Biomechanics of Tympanic Membrane Puncture for Minimally-Invasive Surgical Innovations 
 collection: talks
+excerpt: ""
 type: Invited Research Seminar
 permalink: /talks/2024-12-mee-invited-talk
 venue: Mass Eye and Ear, Harvard Medical School
