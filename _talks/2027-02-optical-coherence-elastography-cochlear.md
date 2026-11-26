@@ -2,7 +2,7 @@
 title: Development of novel phase-sensitive optical coherence elastography with noncontact pulsed-laser excitation to characterize cochlear mechanics
 collection: talks
 excerpt: ""
-type: Poster Presentation
+type: Poster Presentation (Accepted)
 permalink: /talks/2027-02-optical-coherence-elastography-cochlear
 venue: Association for Research in Otolaryngology (ARO), 50th Annual MidWinter Meeting
 date: '2027-02-01'
