@@ -6,6 +6,7 @@ type: Conference Presentation (format to confirm)
 permalink: /talks/2026-02-phase-sensitive-oce-multiple-excitations
 venue: Association for Research in Otolaryngology (ARO), 49th Annual MidWinter Meeting
 date: '2026-02-01'
+location: "San Juan, Puerto Rico, USA"
 ---
 
 **Authors:** Jonathan Oliveira Luiz, Yoshiaki Inuzuka, **Hossein Mohammadi**, John Rosowski, Cosme Furlong, Jeffrey Tao Cheng
