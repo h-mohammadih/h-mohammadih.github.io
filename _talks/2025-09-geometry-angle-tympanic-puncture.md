@@ -2,7 +2,7 @@
 title: Effects of geometry and insertion angle on tympanic membrane puncture and reaction forces
 collection: talks
 excerpt: ""
-type: Poster Presentation
+type: Podium Presentation
 permalink: /talks/2025-09-geometry-angle-tympanic-puncture
 venue: 20th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE2025)
 date: '2025-09-01'
