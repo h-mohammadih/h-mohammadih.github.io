@@ -2,7 +2,7 @@
 title: Experimental, modelling, and parametric study of cutting characteristics of thin viscoelastic membranes under needle insertion
 collection: talks
 excerpt: ""
-type: Conference Presentation (format to confirm)
+type: Podium Presentation
 permalink: /talks/2023-04-viscoelastic-membranes-needle
 venue: Systems Design Engineering (SYDE) Graduate Symposium
 date: '2023-04-01'
