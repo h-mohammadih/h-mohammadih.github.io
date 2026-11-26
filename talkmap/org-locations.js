@@ -70,8 +70,8 @@ var addressPoints = [
     59.9823317
   ],
   [
-    "Biomechanics of Tympanic Membrane Puncture for Minimally-Invasive Surgical Innovations<br />Mass Eye and Ear, Harvard Medical School; Tehran, Iran",
-    35.6892523,
-    51.3896004
+    "Biomechanics of Tympanic Membrane Puncture for Minimally-Invasive Surgical Innovations<br />Mass Eye and Ear, Harvard Medical School; Boston, MA, USA",
+    42.3588336,
+    -71.0578303
   ]
 ];
