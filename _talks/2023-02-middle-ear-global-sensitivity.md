@@ -11,7 +11,7 @@ location: "Orlando, FL, USA"
 
 **Authors:** Arash Ebrahimian, **Hossein Mohammadi**, Nima Maftoon
 
-**Presenter:** Arash Ebrahimian
+**Presenter:** Nima Maftoon
 
 ## Abstract
 
