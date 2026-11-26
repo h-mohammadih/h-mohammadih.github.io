@@ -5,14 +5,9 @@ var addressPoints = [
     51.3896004
   ],
   [
-    "Development of novel phase-sensitive optical coherence elastography with noncontact pulsed-laser excitation to characterize cochlear mechanics<br />Association for Research in Otolaryngology (ARO), 50th Annual MidWinter Meeting; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536923,
-    -118.2427676
+    "Phase-sensitive Optical Coherence Elastography for characterizing cochlear micromechanics with multiple excitation methods<br />Association for Research in Otolaryngology (ARO), 49th Annual MidWinter Meeting; San Juan, Puerto Rico, USA",
+    18.384239,
+    -66.05344
   ],
   [
     "Subject-specific optimization of human middle-ear finite-element models using full-field dynamic synchrotron microtomography<br />Association for Research in Otolaryngology (ARO), 50th Annual MidWinter Meeting; San Francisco, CA, USA",
@@ -30,13 +25,23 @@ var addressPoints = [
     -122.4075201
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
+    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
+    51.5074456,
+    -0.1277653
+  ],
+  [
+    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
+    34.0536923,
+    -118.2427676
+  ],
+  [
+    "Development of novel phase-sensitive optical coherence elastography with noncontact pulsed-laser excitation to characterize cochlear mechanics<br />Association for Research in Otolaryngology (ARO), 50th Annual MidWinter Meeting; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
+    37.7879363,
+    -122.4075201
   ]
 ];
