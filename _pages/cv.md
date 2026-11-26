@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Systems Design Engineering, University of Waterloo, 2023
+* M.S. in Mechanical Engineering, Sharif University of Technology, 2019
+* B.S. in Mechanical Engineering, Isfahan University of Technology, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Research Scholar (Aug. 2025 - Present) @ Harvard Medical School | Mass Eye and Ear
+  * DevelopinganovelFiniteElement(FE)HumanMiddleEarModelusingSynchrotronRadiation-basedX-rayPhase Contrast Imaging.
+  * PerformingSensitivity Analyses to identify key Nonlinear structures in middle-ear biomechanics
+  * Building Surrogate/MachineLearningModelsbasedonFEmodelsforrapidprediction.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Research Scholar (Mar. 2024 - Jul. 2025) @ University of Waterloo
+  * Conductedinterdisciplinary research projects in Shoulder Biomechanics using computational modelling and experimental analysis.
+  * Conductedandledinterdisciplinary research projects in Middle-Ear Biomechanics using computational modelling
+  * SupervisedandMentoredgraduateandundergraduatestudents,fosteringcollaborative research environments.
+  * Developed and maintained experimental Equipments in the Hearing and Biomechanics laboratories. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Modeling & Simulation
+  * Focus: Finite Element Analysis (FEA), Computational Biomechanics, Nonlinear & Damage Mechanics, Constitutive Modeling, Multiphysics Simulation, Mesh Generation & Processing
+  * Software: ABAQUS, COMSOL Multiphysics, ANSYS, MATLAB, Salome-Meca
+* Data Science & Statistical Analysis
+  * Focus: Statistical Modeling, Machine Learning, Uncertainty Quantification, Sensitivity Analysis, Data Visualization, Scientific Data Processing
+  * Tools: Python, Matlab, R, SQL, Tableau, Excel
+* Experimental & Biomedical Research 
+  * Focus: Mechanical Testing & Measurements, Precision Measurement & Manipulation, Laser Doppler Vibrometry (LDV), Digital Image Correlation (DIC), Medical Imaging, Human & Animal Experimental Research, Microsurgery, Mechanical & Electrical Apparatus Design
+* Engineering Design & CAD
+  * Software: SolidWorks, CATIA, Eagle PCB Design, PASCO Capstone
 
 Publications
 ======
