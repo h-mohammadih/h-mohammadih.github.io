@@ -20,6 +20,11 @@ var addressPoints = [
     -122.4075201
   ],
   [
+    "Effects of geometry and insertion angle on tympanic membrane puncture and reaction forces<br />20th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE2025); Barcelona, Spain",
+    41.3825802,
+    2.177073
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
