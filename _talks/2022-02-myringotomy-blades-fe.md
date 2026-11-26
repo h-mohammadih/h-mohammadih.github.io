@@ -2,7 +2,7 @@
 title: 'Towards high-precision myringotomy blades: a finite-element based approach'
 collection: talks
 excerpt: ""
-type: Conference Presentation (format to confirm)
+type: Virtual Poster Presentation
 permalink: /talks/2022-02-myringotomy-blades-fe
 venue: Association for Research in Otolaryngology (ARO), 45th Annual MidWinter Meeting
 date: '2022-02-01'
