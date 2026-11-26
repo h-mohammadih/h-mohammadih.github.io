@@ -1,15 +1,10 @@
 ---
 title: "Your Presentation Title"
-collection: talks
-type: "Conference Presentation"
-permalink: /talks/2027-02-05-aro-presentation
-venue: "Association for Research in Otolaryngology (ARO)"
+collection: publications
+category: conference-presentations
+permalink: /publication/2027-02-aro-podium
+excerpt: '<strong>Hossein Mohammadi</strong>, Coauthor Names'
 date: 2027-02-05
-location: "San Francisco, California, USA"
+venue: '50th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO)'
+paperurl: ''
 ---
-
-**Presentation Type:** Podium Presentation
-
-**Authors:** Hossein Mohammadi, Coauthor Names
-
-**Abstract:** Your presentation abstract.
