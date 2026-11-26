@@ -6,6 +6,7 @@ type: Conference Presentation (format to confirm)
 permalink: /talks/2026-02-ogden-parameter-sensitivity
 venue: Association for Research in Otolaryngology (ARO), 49th Annual MidWinter Meeting
 date: '2026-02-01'
+location: "San Juan, Puerto Rico, USA"
 ---
 
 **Authors:** **Hossein Mohammadi**, Aaron K. Remenschneider, Lukas Anschuetz, Sunil Puria, Jeffrey Tao Cheng
