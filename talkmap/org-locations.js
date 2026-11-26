@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "How to Approach Experiential Learning?<br />Canadian Engineering Education Association (CEEA-AC\u00c9G) 2024 Conference; Edmonton, Alberta, Canada",
+    53.5462055,
+    -113.491241
+  ],
+  [
     "Investigating the effect of diffusion coefficient, nanoparticle size, and Protein Corona thickness in drug release using finite element method<br />3rd National Conference of Science and Technology in Electrical, Computer and Mechanical Engineering; Tehran, Iran",
     35.6892523,
     51.3896004
@@ -58,5 +63,10 @@ var addressPoints = [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
+  ],
+  [
+    "Experimental, modelling, and parametric study of cutting characteristics of thin viscoelastic membranes under needle insertion<br />Systems Design Engineering (SYDE) Graduate Symposium; Waterloo, Ontario, Canada",
+    43.4652699,
+    -80.5222961
   ]
 ];
