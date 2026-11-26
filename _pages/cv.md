@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Scholar (Aug. 2025 - Present) | Harvard Medical School | Mass Eye and Ear
+* Postdoctoral Research Scholar (Aug. 2025 - Present) | Harvard Medical School & Mass Eye and Ear
   * DevelopinganovelFiniteElement(FE)HumanMiddleEarModelusingSynchrotronRadiation-basedX-rayPhase Contrast Imaging.
   * PerformingSensitivity Analyses to identify key Nonlinear structures in middle-ear biomechanics
   * Building Surrogate/MachineLearningModelsbasedonFEmodelsforrapidprediction.
