@@ -68,5 +68,10 @@ var addressPoints = [
     "Towards high-precision myringotomy blades: a finite-element based approach<br />Association for Research in Otolaryngology (ARO), 45th Annual MidWinter Meeting; Virtual",
     57.9110833,
     59.9823317
+  ],
+  [
+    "Biomechanics of Tympanic Membrane Puncture for Minimally-Invasive Surgical Innovations<br />Mass Eye and Ear, Harvard Medical School; Tehran, Iran",
+    35.6892523,
+    51.3896004
   ]
 ];
