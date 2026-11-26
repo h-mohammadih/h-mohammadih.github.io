@@ -6,9 +6,11 @@ type: Conference Presentation (format to confirm)
 permalink: /talks/2024-06-experiential-learning
 venue: Canadian Engineering Education Association (CEEA-ACÉG) 2024 Conference
 date: '2024-06-01'
+location: "Edmonton, Alberta, Canada"
 ---
 
 **Authors:** Reem Roufail, **Hossein Mohammadi**, Richard Li
+**Presenter:** Reem Roufail
 
 ## Abstract
 
