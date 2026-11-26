@@ -5,7 +5,7 @@ type: Invited Research Seminar
 permalink: /talks/2024-12-mee-invited-talk
 venue: Mass Eye and Ear, Harvard Medical School
 date: '2024-12-18'
-location: Tehran, Iran
+location: Boston, MA, USA
 ---
 
 ## Abstract
