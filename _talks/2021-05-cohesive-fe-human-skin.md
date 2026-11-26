@@ -6,6 +6,7 @@ type: Conference Presentation (format to confirm)
 permalink: /talks/2021-05-cohesive-fe-human-skin
 venue: 44th Canadian Medical and Biological Engineering Conference (CMBEC)
 date: '2021-05-01'
+location: "Virtual"
 ---
 
 **Authors:** **Hossein Mohammadi**, Nima Maftoon
