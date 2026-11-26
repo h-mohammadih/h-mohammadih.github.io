@@ -6,6 +6,7 @@ type: Conference Presentation (format to confirm)
 permalink: /talks/2023-02-gerbil-tympanic-fracture
 venue: Association for Research in Otolaryngology (ARO), 46th Annual MidWinter Meeting
 date: '2023-02-01'
+location: "Orlando, FL, USA"
 ---
 
 **Authors:** **Hossein Mohammadi**, Arash Ebrahimian, Nima Maftoon
