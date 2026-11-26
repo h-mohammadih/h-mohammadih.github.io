@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Scholar (Aug. 2025 - Present) | Harvard Medical School & Mass Eye and Ear
+* **Postdoctoral Research Scholar** (Aug. 2025 - Present) | **Harvard Medical School & Mass Eye and Ear**
   * DevelopinganovelFiniteElement(FE)HumanMiddleEarModelusingSynchrotronRadiation-basedX-rayPhase Contrast Imaging.
   * PerformingSensitivity Analyses to identify key Nonlinear structures in middle-ear biomechanics
   * Building Surrogate/MachineLearningModelsbasedonFEmodelsforrapidprediction.
 
-* Postdoctoral Research Scholar (Mar. 2024 - Jul. 2025) | University of Waterloo
+* **Postdoctoral Research Scholar** (Mar. 2024 - Jul. 2025) | **University of Waterloo**
   * Conductedinterdisciplinary research projects in Shoulder Biomechanics using computational modelling and experimental analysis.
   * Conductedandledinterdisciplinary research projects in Middle-Ear Biomechanics using computational modelling
   * SupervisedandMentoredgraduateandundergraduatestudents,fosteringcollaborative research environments.
