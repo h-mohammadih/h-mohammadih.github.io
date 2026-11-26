@@ -13,7 +13,7 @@ location: San Francisco, CA, USA
 
 **Status:** Accepted for presentation (February 2027)
 
-**Presenter:** **Hossein Mohammadi**
+**Presenter:** Hossein Mohammadi
 
 ## Abstract
 
