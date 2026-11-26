@@ -6,6 +6,7 @@ type: Conference Presentation (format to confirm)
 permalink: /talks/2023-04-viscoelastic-membranes-needle
 venue: Systems Design Engineering (SYDE) Graduate Symposium
 date: '2023-04-01'
+location: "Waterloo, Ontario, Canada"
 ---
 
 **Authors:** **Hossein Mohammadi**, Nima Maftoon
