@@ -5,6 +5,11 @@ var addressPoints = [
     51.3896004
   ],
   [
+    "Computational Modelling of Tympanic Membrane Puncture Biomechanics<br />Canadian Society for Biomechanics (CSB-SCB) 2024 Conference; Edmonton, Alberta, Canada",
+    53.5462055,
+    -113.491241
+  ],
+  [
     "Phase-sensitive Optical Coherence Elastography for characterizing cochlear micromechanics with multiple excitation methods<br />Association for Research in Otolaryngology (ARO), 49th Annual MidWinter Meeting; San Juan, Puerto Rico, USA",
     18.384239,
     -66.05344
@@ -38,6 +43,11 @@ var addressPoints = [
     "Development of novel phase-sensitive optical coherence elastography with noncontact pulsed-laser excitation to characterize cochlear mechanics<br />Association for Research in Otolaryngology (ARO), 50th Annual MidWinter Meeting; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
+  ],
+  [
+    "The sensitivity of nonlinear Ogden parameters in the middle-ear response to high-intensity sounds<br />Association for Research in Otolaryngology (ARO), 49th Annual MidWinter Meeting; San Juan, Puerto Rico, USA",
+    18.384239,
+    -66.05344
   ],
   [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
