@@ -35,11 +35,6 @@ var addressPoints = [
     2.177073
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "Predicting middle-ear damage under acoustic excitation and surgical manipulation using finite-element modeling<br />Association for Research in Otolaryngology (ARO), 50th Annual MidWinter Meeting; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
