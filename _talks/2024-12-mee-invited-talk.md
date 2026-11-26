@@ -8,7 +8,7 @@ date: '2024-12-18'
 location: Tehran, Iran
 ---
 
-**Authors:** 
+## Abstract
 
 The development of needle-based, minimally invasive technologies holds significant promise for advancing the treatment of middle ear pathologies. Such innovations require a comprehensive understanding of the biomechanics of the tympanic membrane (TM), particularly its behavior during needle insertion and cutting. This presentation explores the mechanical and fracture-related properties of the TM, laying the groundwork for the design of safer and more effective surgical devices. 
 
